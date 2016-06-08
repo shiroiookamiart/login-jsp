@@ -1,0 +1,25 @@
+/* 
+    Created on : 01/06/2016, 07:17:11 AM
+    Author     : david
+*/
+.form-login{
+    background-color: rgba(234, 210, 185, .5);
+    padding: 20px;
+    box-shadow: 2px 2px 2px 2px #000;
+}
+
+.row{
+    margin: 0;
+}
+
+.mensaje{
+    display: none;
+}
+
+.separar-15{
+    padding: 15px;
+}
+
+.separar-30{
+    padding: 30px;
+}
